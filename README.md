@@ -110,7 +110,7 @@ Pull requests, implementations, and demolitions welcome.
 
 ## Paper and Working Notes
 
-> Janer, J. J. (2026). *All You Need Are Waves: Frequency as Shared Substrate for Multi-Paradigm AI Integration*. Working Paper v0.4. https://doi.org/10.5281/zenodo.XXXXXXX
+> Janer, J. J. (2026). *All You Need Are Waves: Frequency as Shared Substrate for Multi-Paradigm AI Integration*. Working Paper v0.4. https://doi.org/10.5281/zenodo.20287329
 
 ---
 
