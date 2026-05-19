@@ -118,7 +118,7 @@ Pull requests, implementations, and demolitions welcome.
 
 ```bibtex
 @misc{janer2026waves,
-  author    = {Janer, Juan Javier},
+  author    = {Janer Tittarelli, Javier Ignacio},
   title     = {All You Need Are Waves: Frequency as Shared Substrate
                for Multi-Paradigm AI Integration},
   year      = {2026},
