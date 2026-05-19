@@ -124,8 +124,8 @@ Pull requests, implementations, and demolitions welcome.
   year      = {2026},
   month     = {May},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX},
+  doi       = {10.5281/zenodo.20287329},
+  url       = {https://doi.org/10.5281/zenodo.20287329},
   note      = {Working Paper v0.4}
 }
 ```
